@@ -21,3 +21,7 @@
 * https://fontawesome.com/get-started
 * https://icons8.com/icon/set/jobs/all
 * http://materializecss.com/icons.html
+
+## Other Reference Links
+* https://websemantics.uk/
+* https://www.elastic.co/webinars/getting-started-elasticsearch?baymax=rtp&elektra=products&iesrc=ctr
