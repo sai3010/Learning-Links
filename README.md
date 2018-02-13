@@ -12,6 +12,7 @@
 * [Typed JS](https://mattboldt.com/demos/typed-js/)
 * [Typewriter](https://safi.me.uk/typewriterjs/)
 * [Typeit Js](https://typeitjs.com/)
+* [Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/)
 
 ## Color Pallets
 * http://www.color-hex.com/color-palettes/
