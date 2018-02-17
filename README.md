@@ -3,6 +3,11 @@
 * http://next.materializecss.com/
 * http://getbootstrap.com/
 
+## Text Editors / IDE
+* https://code.visualstudio.com/
+* https://www.sublimetext.com/3
+* https://atom.io/
+* http://brackets.io/
 ## PWA/Responsive Design 
 * https://google-developer-training.gitbooks.io/progressive-web-apps-ilt-codelabs/content/
 
