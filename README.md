@@ -38,3 +38,6 @@
 
 ## Material Design framework for building responsive, mobile-first sites.(including web push tutorials)
 * https://mdbootstrap.com/getting-started/
+
+## File Trasnfers
+* https://send-anywhere.com/
