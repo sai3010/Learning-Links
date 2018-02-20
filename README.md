@@ -23,6 +23,10 @@
 * [Typeit Js](https://typeitjs.com/)
 * [Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/)
 
+## E-Learning Platform
+* [Udemy](https://www.udemy.com/) *
+* [Udacity](https://www.udacity.com) *
+* [Telcoma](https://telcomaglobal.com) *
 ## Color Pallets
 * http://www.color-hex.com/color-palettes/
 * https://www.materialpalette.com/colors
