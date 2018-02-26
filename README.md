@@ -1,4 +1,5 @@
-# Learning-Links
+# Resources for Web Dev,Android
+# Web Development
 ## Front-End FrameWorks
 * http://next.materializecss.com/
 * http://getbootstrap.com/
@@ -49,3 +50,7 @@
 
 ## File Trasnfers
 * https://send-anywhere.com/
+
+# Android
+* [Android Hive](https://www.androidhive.info/)
+* Added E-book inside Android Folder to the Repo.
