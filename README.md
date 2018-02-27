@@ -27,6 +27,7 @@
 * [Typewriter](https://safi.me.uk/typewriterjs/)
 * [Typeit Js](https://typeitjs.com/)
 * [Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/)
+* [Bxslider](https://bxslider.com/)
 
 ## E-Learning Platform
 * [Udemy](https://www.udemy.com/) *
