@@ -1,8 +1,9 @@
 # Resources for Web Dev,Android
 # Web Development
 
-## Mark Up Validation
+## Mark Up Validation / JSON 
 * https://validator.w3.org/
+* https://jsonlint.com/
 
 ## Image optimization
 * https://tinypng.com/
