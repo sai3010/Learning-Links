@@ -1,5 +1,12 @@
 # Resources for Web Dev,Android
 # Web Development
+
+## Mark Up Validation
+* https://validator.w3.org/
+
+## Image optimization
+* https://tinypng.com/
+
 ## Front-End FrameWorks
 * http://next.materializecss.com/
 * http://getbootstrap.com/
@@ -29,11 +36,14 @@
 * [Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/)
 * [Bxslider](https://bxslider.com/)
 * [WayPoint](http://imakewebthings.com/waypoints/)  - Waypoints is the easiest way to trigger a function when you scroll to an element.
+* [Counter-up](https://github.com/bfintal/Counter-Up) - Scrolling counter
+* [Wow Js](https://mynameismatthieu.com/WOW/index.html) - Reveal Animations When You Scroll
 
 ## E-Learning Platform
 * [Udemy](https://www.udemy.com/) *
 * [Udacity](https://www.udacity.com) *
 * [Telcoma](https://telcomaglobal.com) *
+
 ## Color Pallets
 * http://www.color-hex.com/color-palettes/
 * https://www.materialpalette.com/colors
