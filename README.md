@@ -20,7 +20,7 @@
 * https://formspree.io/
 * https://postmail.invotes.com/
 
-## Java Script
+## Java Script/JQuery
 * [Scrollify](https://projects.lukehaas.me/scrollify/)
 * [Midnight Js](http://aerolab.github.io/midnight.js/)
 * [Typed JS](https://mattboldt.com/demos/typed-js/)
@@ -28,6 +28,7 @@
 * [Typeit Js](https://typeitjs.com/)
 * [Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/)
 * [Bxslider](https://bxslider.com/)
+* [WayPoint](http://imakewebthings.com/waypoints/)  - Waypoints is the easiest way to trigger a function when you scroll to an element.
 
 ## E-Learning Platform
 * [Udemy](https://www.udemy.com/) *
