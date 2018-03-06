@@ -12,6 +12,10 @@
 * http://next.materializecss.com/
 * http://getbootstrap.com/
 
+## Graphs
+" http://www.chartjs.org
+" https://plot.ly/python/
+
 ## Text Editors / IDE
 * https://code.visualstudio.com/
 * https://www.sublimetext.com/3
