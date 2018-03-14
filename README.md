@@ -71,3 +71,4 @@
 # Android
 * [Android Hive](https://www.androidhive.info/)
 * Added E-book inside Android Folder to the Repo.
+* [Loaders](https://github.com/81813780/AVLoadingIndicatorView)
