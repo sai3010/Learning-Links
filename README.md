@@ -1,4 +1,4 @@
-# Resources for Web Dev,Android
+# Resources for Web Dev,Android,Python
 # Web Development
 
 ## Mark Up Validation / JSON 
@@ -72,3 +72,6 @@
 * [Android Hive](https://www.androidhive.info/)
 * Added E-book inside Android Folder to the Repo.
 * [Loaders](https://github.com/81813780/AVLoadingIndicatorView)
+
+# Python
+* [QR Code](http://pythonhosted.org/PyQRCode/) 
