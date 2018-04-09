@@ -75,5 +75,13 @@
 
 # Python
 * [QR Code](http://pythonhosted.org/PyQRCode/) 
+
 # Free Hosting
 * [Heliohost](https://www.heliohost.org/)
+
+# Chatbots
+* [collect chat](https://collect.chat/)
+* [tawk](https://www.tawk.to/)
+
+# Animate
+[modal animate](https://joaopereirawd.github.io/animatedModal.js/)
