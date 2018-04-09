@@ -84,4 +84,4 @@
 * [tawk](https://www.tawk.to/)
 
 # Animate
-[modal animate](https://joaopereirawd.github.io/animatedModal.js/)
+* [modal animate](https://joaopereirawd.github.io/animatedModal.js/)
