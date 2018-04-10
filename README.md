@@ -17,14 +17,15 @@
 * https://vmware.github.io/clarity/
 
 ## Graphs
-" http://www.chartjs.org
-" https://plot.ly/python/
+* http://www.chartjs.org
+* https://plot.ly/python/
 
 ## Text Editors / IDE
 * https://code.visualstudio.com/
 * https://www.sublimetext.com/3
 * https://atom.io/
 * http://brackets.io/
+
 ## PWA/Responsive Design 
 * https://google-developer-training.gitbooks.io/progressive-web-apps-ilt-codelabs/content/
 
@@ -77,6 +78,7 @@
 
 ## Smooth scroll & highlight menus
 * [menuspy](https://leocs.me/menuspy/#usage)
+
 ## Chatbots
 * [collect chat](https://collect.chat/)
 * [tawk](https://www.tawk.to/)
