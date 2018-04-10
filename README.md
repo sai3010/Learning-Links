@@ -75,6 +75,8 @@
 ## Free Hosting
 * [Heliohost](https://www.heliohost.org/)
 
+## Smooth scroll & highlight menus
+* [menuspy](https://leocs.me/menuspy/#usage)
 ## Chatbots
 * [collect chat](https://collect.chat/)
 * [tawk](https://www.tawk.to/)
