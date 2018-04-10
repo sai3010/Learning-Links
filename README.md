@@ -68,6 +68,19 @@
 ## File Trasnfers
 * https://send-anywhere.com/
 
+## Free Hosting
+* [Heliohost](https://www.heliohost.org/)
+
+## Chatbots
+* [collect chat](https://collect.chat/)
+* [tawk](https://www.tawk.to/)
+
+## Animate
+* [modal animate](https://joaopereirawd.github.io/animatedModal.js/)
+
+## Unsplash
+* [unsplash](https://unsplash.com/)
+
 # Android
 * [Android Hive](https://www.androidhive.info/)
 * Added E-book inside Android Folder to the Repo.
@@ -76,12 +89,3 @@
 # Python
 * [QR Code](http://pythonhosted.org/PyQRCode/) 
 
-# Free Hosting
-* [Heliohost](https://www.heliohost.org/)
-
-# Chatbots
-* [collect chat](https://collect.chat/)
-* [tawk](https://www.tawk.to/)
-
-# Animate
-* [modal animate](https://joaopereirawd.github.io/animatedModal.js/)
