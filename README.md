@@ -5,12 +5,16 @@
 * https://validator.w3.org/
 * https://jsonlint.com/
 
+## Removing html from url
+* https://teamtreehouse.com/community/removing-html-from-url
+
 ## Image optimization
 * https://tinypng.com/
 
 ## Front-End FrameWorks
 * http://next.materializecss.com/
 * http://getbootstrap.com/
+* https://vmware.github.io/clarity/
 
 ## Graphs
 " http://www.chartjs.org
