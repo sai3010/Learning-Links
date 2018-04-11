@@ -48,6 +48,7 @@
 * [WayPoint](http://imakewebthings.com/waypoints/)  - Waypoints is the easiest way to trigger a function when you scroll to an element.
 * [Counter-up](https://github.com/bfintal/Counter-Up) - Scrolling counter
 * [Wow Js](https://mynameismatthieu.com/WOW/index.html) - Reveal Animations When You Scroll
+* [Swipper](http://idangero.us/swiper/)
 
 ## E-Learning Platform
 * [Udemy](https://www.udemy.com/) *
