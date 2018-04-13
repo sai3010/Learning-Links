@@ -5,6 +5,10 @@
 * https://validator.w3.org/
 * https://jsonlint.com/
 
+## JSON
+* [jsonstub](http://jsonstub.com/)
+* [deployd](http://deployd.com/)
+
 ## Removing html from url
 * https://teamtreehouse.com/community/removing-html-from-url
 
