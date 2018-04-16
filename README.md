@@ -21,7 +21,7 @@
 * https://vmware.github.io/clarity/
 
 ## Mockups / Design
-* Smartmockups.com
+* https://smartmockups.com
 
 ## Graphs
 * http://www.chartjs.org
