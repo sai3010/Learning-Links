@@ -58,6 +58,8 @@
 * [Swipper](http://idangero.us/swiper/)
 * [Howler js](https://howlerjs.com/) -Audio library for the modern web.
 * [paperjs](http://paperjs.org/) - vector graphics scripting 
+* [Siriwave](https://github.com/kopiro/siriwavejs)
+
 ## E-Learning Platform
 * [Udemy](https://www.udemy.com/) *
 * [Udacity](https://www.udacity.com) *
