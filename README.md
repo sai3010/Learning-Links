@@ -56,7 +56,8 @@
 * [Counter-up](https://github.com/bfintal/Counter-Up) - Scrolling counter
 * [Wow Js](https://mynameismatthieu.com/WOW/index.html) - Reveal Animations When You Scroll
 * [Swipper](http://idangero.us/swiper/)
-
+* [Howler js](https://howlerjs.com/) -Audio library for the modern web.
+* [paperjs](http://paperjs.org/) - vector graphics scripting 
 ## E-Learning Platform
 * [Udemy](https://www.udemy.com/) *
 * [Udacity](https://www.udacity.com) *
