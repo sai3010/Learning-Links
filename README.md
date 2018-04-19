@@ -68,6 +68,9 @@
 ## Color Pallets
 * http://www.color-hex.com/color-palettes/
 * https://www.materialpalette.com/colors
+* http://www.colorzilla.com/\
+* https://flatuicolors.com/
+* http://colorhunt.co/
 
 ## Icons
 * https://fontawesome.com/get-started
