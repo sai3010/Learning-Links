@@ -5,6 +5,13 @@
 * https://validator.w3.org/
 * https://jsonlint.com/
 
+## Favicon
+* https://realfavicongenerator.net/
+
+## Browser theme
+
+```<meta name="theme-color" content="#000">```
+
 ## JSON
 * [jsonstub](http://jsonstub.com/)
 * [deployd](http://deployd.com/)
