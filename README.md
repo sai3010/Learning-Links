@@ -59,6 +59,8 @@
 * [Howler js](https://howlerjs.com/) -Audio library for the modern web.
 * [paperjs](http://paperjs.org/) - vector graphics scripting 
 * [Siriwave](https://github.com/kopiro/siriwavejs)
+* [Rich link](https://medium.com/@richardoosterhof/how-to-optimize-your-site-for-rich-previews-527ed13a6d69) - Display in social sites
+* [Rick Link Preview test](https://richpreview.com/)
 
 ## E-Learning Platform
 * [Udemy](https://www.udemy.com/) *
