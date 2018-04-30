@@ -108,6 +108,7 @@
 
 ## Animate
 * [modal animate](https://joaopereirawd.github.io/animatedModal.js/)
+* [Super Scroll](http://johnpolacek.github.io/superscrollorama/)
 
 ## Unsplash
 * [unsplash](https://unsplash.com/)
