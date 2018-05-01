@@ -72,6 +72,9 @@
 ## Encode JS
 * [obfuscator](http://javascriptobfuscator.com)
 
+## Fight spam
+* [Honeypot](https://jennamolby.com/how-to-prevent-form-spam-by-using-the-honeypot-technique/)
+
 ## E-Learning Platform
 * [Udemy](https://www.udemy.com/) *
 * [Udacity](https://www.udacity.com) *
