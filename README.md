@@ -69,6 +69,9 @@
 * [Rich link](https://medium.com/@richardoosterhof/how-to-optimize-your-site-for-rich-previews-527ed13a6d69) - Display in social sites
 * [Rick Link Preview test](https://richpreview.com/)
 
+## Encode JS
+* [obfuscator](http://javascriptobfuscator.com)
+
 ## E-Learning Platform
 * [Udemy](https://www.udemy.com/) *
 * [Udacity](https://www.udacity.com) *
