@@ -12,6 +12,10 @@
 
 ```<meta name="theme-color" content="#000">```
 
+## SMS
+* [Twilio](https://www.twilio.com/docs/quickstart)
+* [Textbelt](https://textbelt.com/)
+
 ## JSON
 * [jsonstub](http://jsonstub.com/)
 * [deployd](http://deployd.com/)
