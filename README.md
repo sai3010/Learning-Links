@@ -23,6 +23,10 @@
 ## Removing html from url
 * https://teamtreehouse.com/community/removing-html-from-url
 
+## gzip compression 
+* https://betterexplained.com/articles/how-to-optimize-your-site-with-gzip-compression/
+* https://checkgzipcompression.com/
+
 ## Image optimization
 * https://tinypng.com/
 
