@@ -4,6 +4,9 @@
 ## Tools 
 * https://envato.com/blog/top-10-free-tools-frontend-web-development/
 
+## Optimizing Referal
+* https://varvy.com/sitemap.html
+
 ## Mark Up Validation / JSON 
 * https://validator.w3.org/
 * https://jsonlint.com/
