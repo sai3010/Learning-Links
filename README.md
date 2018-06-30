@@ -40,6 +40,7 @@
 * http://next.materializecss.com/
 * http://getbootstrap.com/
 * https://vmware.github.io/clarity/
+* http://idangero.us/swiper/api/
 
 ## Mockups / Design
 * https://smartmockups.com
