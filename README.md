@@ -107,6 +107,7 @@
 * http://www.colorzilla.com/\
 * https://flatuicolors.com/
 * http://colorhunt.co/
+* https://clrs.cc/
 
 ## Icons
 * https://fontawesome.com/get-started
