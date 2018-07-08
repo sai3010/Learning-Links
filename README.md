@@ -47,6 +47,7 @@
 * https://moqups.com/
 * https://zeplin.io/
 
+
 ## Graphs
 * http://www.chartjs.org
 * https://plot.ly/python/
@@ -151,6 +152,7 @@
 ## HD BG
 * [pexela](https://www.pexels.com)
 * [unsplash](https://unsplash.com/)
+* [Freepik](https://www.freepik.com/free-vector/bright-background-wi
 
 # Android
 * [Android Hive](https://www.androidhive.info/)
