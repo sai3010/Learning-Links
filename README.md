@@ -146,6 +146,7 @@
 ## Animate
 * [modal animate](https://joaopereirawd.github.io/animatedModal.js/)
 * [Super Scroll](http://johnpolacek.github.io/superscrollorama/)
+* http://anijs.github.io
 
 ## URLS
 * [Bitly](https://app.bitly.com)
