@@ -93,6 +93,7 @@
 * [Siriwave](https://github.com/kopiro/siriwavejs)
 * [Rich link](https://medium.com/@richardoosterhof/how-to-optimize-your-site-for-rich-previews-527ed13a6d69) - Display in social sites
 * [Rick Link Preview test](https://richpreview.com/)
+* [Progress Bar js](http://progressbarjs.readthedocs.io/en/latest/)
 
 ## Encode JS
 * [obfuscator](http://javascriptobfuscator.com)
