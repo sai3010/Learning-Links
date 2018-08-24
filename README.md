@@ -38,6 +38,7 @@
 
 ## Image optimization
 * https://tinypng.com/
+* https://imageresize.org
 
 ## Front-End FrameWorks
 * http://next.materializecss.com/
@@ -49,6 +50,7 @@
 * https://smartmockups.com
 * https://moqups.com/
 * https://zeplin.io/
+* https://figma.com
 
 
 ## Graphs
@@ -68,10 +70,12 @@
 ## Online Editors
 * https://codepen.io/
 * https://jsbin.com/?html,output
+* https://repl.it
 
 ## Send Email Without Backend
 * https://formspree.io/
 * https://postmail.invotes.com/
+* https://getsimpleform.com
 
 ## Audit
 * https://www.seoptimer.com/
@@ -116,6 +120,7 @@
 * https://flatuicolors.com/
 * http://colorhunt.co/
 * https://clrs.cc/
+* http://colours.neilorangepeel.com/
 
 ## Icons
 * https://fontawesome.com/get-started
@@ -136,7 +141,7 @@
 ## c9 invite
 * https://wdb-c9-invite.herokuapp.com/
 
-## File Trasnfers
+## File Transfers
 * https://send-anywhere.com/
 
 ## Free Hosting
@@ -160,7 +165,7 @@
 ## HD BG
 * [pexela](https://www.pexels.com)
 * [unsplash](https://unsplash.com/)
-* [Freepik](https://www.freepik.com/free-vector/bright-background-wi
+* [Freepik](https://www.freepik.com)
 
 # Android
 * [Android Hive](https://www.androidhive.info/)
