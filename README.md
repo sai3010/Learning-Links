@@ -7,7 +7,7 @@
 ## Tools 
 * https://envato.com/blog/top-10-free-tools-frontend-web-development/
 
-## Optimizing Referal
+## Optimizing Referral
 * https://varvy.com/sitemap.html
 
 ## Mark Up Validation / JSON 
@@ -16,6 +16,7 @@
 
 ## Favicon
 * https://realfavicongenerator.net/
+* http://www.favicomatic.com/
 
 ## Browser theme
 
@@ -160,8 +161,9 @@
 * http://anijs.github.io
 
 ## Social Media
-* [Dribble](https://dribbble.com/)
+* [Dribbble](https://dribbble.com/)
 * [Medium](https://medium.com/)
+* [Behance](https://behance.net)
 
 ## URLS
 * [Bitly](https://app.bitly.com)
@@ -178,4 +180,8 @@
 
 # Python
 * [QR Code](http://pythonhosted.org/PyQRCode/) 
+
+# Interview Preparation
+
+* [Interview-cookbook](https://www.adithyabhat.com/interview-cookbook)
 
